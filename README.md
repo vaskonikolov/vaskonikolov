@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaskonikolov
-- 👀 I’m interested in front end developer
+- 👀 I’m interested in front end development
 - 🌱 I’m currently learning JS from The Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on my instagram: _vaskonikolov_
